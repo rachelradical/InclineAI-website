@@ -189,7 +189,7 @@ sections:
     actions:
       - type: Link
         label: Contact Us Today!
-        url: /
+        url: /contact-us
         showIcon: true
         icon: arrowRight
         iconPosition: right
