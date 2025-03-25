@@ -85,7 +85,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: Data Analytics and Predictive
         subtitle: The Job Stuff
         text: >+
           Make your data work for you with customized, actionable insights. We
