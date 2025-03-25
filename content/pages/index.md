@@ -126,8 +126,13 @@ sections:
         title: Small Businesses & Startups
         tagline: ''
         subtitle: Custom built for better results.
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          **Pain Point:** You need things working better, faster, more
+          efficiently. Existing tools are never quite the right fit.
+
+          **Our Solution:** We build lightweight dashboards and AI tools that
+          cater specifically to your operational needs.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
