@@ -181,7 +181,9 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: >-
+      Whether you want to book a one-day workshop, retain ongoing AI consulting
+      services, or something in between, we have the solution.
     items:
       - type: FeaturedItem
         title: AI Readiness Audit
