@@ -218,7 +218,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Don't see your industry here?
+        title: Custom Solutions
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
