@@ -204,7 +204,7 @@ slug: our-services
 seo:
   type: Seo
   metaTitle: Our Services
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: Description of AI Consulting Services from Incline AI
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
