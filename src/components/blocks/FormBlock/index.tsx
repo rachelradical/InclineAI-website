@@ -48,8 +48,6 @@ export default function FormBlock(props) {
             onSubmit={handleSubmit}
             ref={formRef}
             data-sb-field-path= {fieldPath}
-            <input type="hidden" name="form-name" value="contact" />
-            <input type="hidden" name="bot-field" />
         >
             <div
                 className={classNames('w-full', 'flex', 'flex-wrap', 'gap-8', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }))}
