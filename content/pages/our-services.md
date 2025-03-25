@@ -256,8 +256,22 @@ sections:
         title: AI Training Workshop
         tagline: ''
         subtitle: Contact Us for Pricing
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >+
+          Book an interactive workshop tailored specifically to your team,
+          focused on:
+
+
+          *   practical AI adoption,
+
+
+          *   using specific AI tools,
+
+
+          *   using data to drive insights, or
+
+
+          *   another topic chosen by you!
+
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
