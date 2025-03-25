@@ -37,7 +37,7 @@ sections:
         actions:
           - type: Button
             label: Schedule Your Audit
-            url: /
+            url: /contact-us
             icon: arrowRight
             iconPosition: right
             style: secondary
