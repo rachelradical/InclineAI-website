@@ -186,7 +186,7 @@ sections:
       - type: FeaturedItem
         title: AI Readiness Audit
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Contact Us for Pricing
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
