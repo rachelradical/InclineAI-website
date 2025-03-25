@@ -125,7 +125,7 @@ sections:
       - type: FeaturedItem
         title: Small Businesses & Startups
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Custom built for better results.
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
