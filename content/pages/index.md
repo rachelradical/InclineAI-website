@@ -252,7 +252,7 @@ sections:
       type: TitleBlock
       text: Let's get to work!
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: ''
     text: >+
       Ready to explore how AI can benefit you?
 
