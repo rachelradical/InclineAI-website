@@ -222,8 +222,18 @@ sections:
         title: AI Strategy and Roadmap
         tagline: ''
         subtitle: Contact Us for Pricing
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >+
+          Your organization will receive:
+
+
+          *   a detailed, actionable roadmap for adopting AI, tailored
+          specifically to your needs and goals
+
+
+          *   implementation of one custom AI agent or app
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
