@@ -48,7 +48,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: AI That Works For Your Industry
       color: text-dark
       styles:
         self:
