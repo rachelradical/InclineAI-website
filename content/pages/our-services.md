@@ -88,7 +88,7 @@ sections:
       - type: PricingPlan
         title: AI Training Workshop
         price: ''
-        details: per month
+        details: Contact Us for Pricing
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
