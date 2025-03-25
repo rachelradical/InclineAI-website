@@ -50,7 +50,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Let's make AI work for you.
     items:
       - type: FeaturedItem
         title: Custom AI Training and Implementation
