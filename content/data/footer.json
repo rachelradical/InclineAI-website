@@ -4,30 +4,14 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Consulting",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
+                "label": "Our Services",
+                "altText": "Our Services",
+                "url": "/our-services",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -37,12 +21,12 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "Incline AI",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "About Us",
+                "altText": "About us page",
+                "url": "/about-us",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -103,7 +87,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "**Incline AI Consulting**\n\nPittsburgh, PA | © 2025\n\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
