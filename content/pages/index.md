@@ -53,7 +53,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Custom AI Training and Implementation
         subtitle: Numbers Done
         text: >+
           Let's develop a plan for your business to harness AI for growth and
