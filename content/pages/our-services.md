@@ -16,7 +16,7 @@ sections:
     plans:
       - type: PricingPlan
         title: ''
-        price: AI Readiness Audit
+        price: ''
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
