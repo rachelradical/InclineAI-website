@@ -93,7 +93,7 @@ sections:
       - type: FeaturedItem
         title: Small Businesses and Startups
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
