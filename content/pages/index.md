@@ -269,7 +269,7 @@ sections:
     actions:
       - type: Button
         label: Email Us
-        url: /
+        url: 'mailto:rachelcradke@gmail.com'
         icon: arrowRight
         iconPosition: right
         style: secondary
