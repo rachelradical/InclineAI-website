@@ -64,12 +64,14 @@ sections:
         subtitle: >-
           One implementation can save you thousands in labor and lost
           appointments—every single year.
-        text: >
-          **Pain Point:** Managing scheduling, dispatch, and customer follow-ups
-          is time-consuming—and mistakes cost money.`</br>`
+        text: >+
+          *   **Pain Point:** Managing scheduling, dispatch, and customer
+          follow-ups is time-consuming—and mistakes cost money.
 
-          **Our Solution:** We combine machine learning with geospatial data to
-          **automate your scheduling**, reduce no-shows, and optimize routes.
+
+          *   **Our Solution:** We combine machine learning with geospatial data
+          to **automate your scheduling**, reduce no-shows, and optimize routes.
+
         image:
           type: ImageBlock
           url: /images/home.jpg
