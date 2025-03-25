@@ -31,7 +31,7 @@ sections:
         /images/DALL·E 2025-03-25 12.16.53 - A minimalist, cheerful illustration
         directly inspired by the provided photograph of Pittsburgh, featuring
         the Duquesne Incline ascending Mount Washing.webp
-      altText: Unblock your team boost your time to production preview
+      altText: Skyline and incline
       elementId: ''
       type: ImageBlock
     elementId: ''
