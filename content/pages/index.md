@@ -317,7 +317,7 @@ sections:
           borderWidth: 1
           borderRadius: large
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Home - Incline AI Consulting
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
