@@ -205,9 +205,19 @@ sections:
       text: Why Incline AI?
       color: text-dark
     subtitle: Be in good company
-    text: >
+    text: >+
       *   **Clear & Practical:** No tech jargon, just simple and clear
       solutions.
+
+      *   **Locally Owned:** Proudly based in Pittsburgh—built to support the
+      industries and people who live here.
+
+      *   **Experienced:** Founded by Rachel Radke, a Pittsburgh native,
+      experienced machine learning engineer, data analyst, educator, and
+      entrepreneur committed to ethical and effective AI use.
+
+      *
+
     actions:
       - type: Button
         label: Get started
