@@ -187,7 +187,7 @@ sections:
       - type: FeaturedItem
         title: Nonprofits
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Do more good with less grind.
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
