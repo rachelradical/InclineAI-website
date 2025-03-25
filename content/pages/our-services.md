@@ -167,9 +167,19 @@ sections:
       text: Looking for Something Else?
       color: text-dark
     subtitle: The options are endless!
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |+
+      Retain our ongoing services for a flat, monthly rate. Benefits include:
+
+      *   Regular meetings
+
+      *   Advice on AI implementation
+
+      *   Data analytics and insights
+
+      *   Guidance
+
+
+
     actions:
       - type: Button
         label: Get started
