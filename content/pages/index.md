@@ -60,7 +60,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Feature Item One
-        tagline: This is the tagline
+        tagline: ''
         subtitle: >-
           One implementation can save you thousands in labor and lost
           appointments—every single year.
