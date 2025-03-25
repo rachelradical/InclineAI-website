@@ -49,6 +49,7 @@ sections:
           defaultValue: Please choose...
           options:
             - AI Readiness Audit
+            - ''
           isRequired: false
           width: full
         - type: TextareaFormControl
