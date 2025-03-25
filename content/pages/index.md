@@ -74,7 +74,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/home.jpg
+          url: /images/home services.jpg
           altText: home services icon
           styles:
             self:
