@@ -232,7 +232,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Let's Talk
             altText: ''
             url: /contact-us
             showIcon: false
