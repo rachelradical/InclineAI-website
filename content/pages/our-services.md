@@ -208,4 +208,5 @@ seo:
   socialImage: /images/main-hero.jpg
   metaTags: []
   addTitleSuffix: true
+isDraft: false
 ---
