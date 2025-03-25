@@ -219,7 +219,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Custom Solutions
-        tagline: This is the tagline
+        tagline: ''
         subtitle: 'Whatever your space, we build solutions for real-world problems.'
         text: ''
         image:
