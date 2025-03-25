@@ -47,6 +47,224 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
+      type: TitleBlock
+      text: AI That Works for YOU
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    subtitle: >-
+      We don’t do cookie-cutter. Every AI solution we build is tailored to the
+      actual problems you face. Here's how AI can work for real industries—just
+      like yours:
+    items:
+      - type: FeaturedItem
+        title: Small Businesses & Startups
+        tagline: ''
+        subtitle: Custom built for better results.
+        text: >+
+          **Pain Point:** You need things working better, faster, more
+          efficiently. Existing tools are never quite the right fit.
+
+          **Our Solution:** We build lightweight dashboards and AI tools that
+          cater specifically to your operational needs.
+
+        image:
+          type: ImageBlock
+          url: /images/small business icon.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Home Services
+        tagline: ''
+        subtitle: >-
+          One implementation can save you thousands in labor and lost
+          appointments—every single year.
+        text: >+
+          *   **Pain Point:** Managing scheduling, dispatch, and customer
+          follow-ups is time-consuming—and mistakes cost money.
+
+
+          *   **Our Solution:** We combine machine learning with geospatial data
+          to **automate your scheduling**, reduce no-shows, and optimize routes.
+
+        image:
+          type: ImageBlock
+          url: /images/home services.jpg
+          altText: home services icon
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Schools & Educators
+        tagline: ''
+        subtitle: 'AI that helps you support students, not just track them.'
+        text: >+
+          *   **Pain Point:** Student data is everywhere—but rarely actionable.
+
+
+          *   **Our Solution:** We help teachers and administrators implement
+          effective AI tools to identify at-risk students earlier, improve
+          performance, and allocate support where it’s needed most.
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/school icon.png
+          altText: Background alt text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Healthcare
+        tagline: ''
+        subtitle: Less burnout. Better outcomes.
+        text: >+
+          *   **Pain Point:** Staff burnout, patient follow-up gaps, and
+          overwhelming case data.
+
+
+          *   **Our Solution:** We help practices use AI to triage workloads,
+          flag risk patterns, and automate common admin tasks—all without
+          compromising care.
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/healthcare icon.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Nonprofits
+        tagline: ''
+        subtitle: Do more good with less grind.
+        text: >+
+          *   **Pain Point:** Limited staff, endless spreadsheets, and pressure
+          to prove impact.
+
+
+          *   **Our Solution:** We use AI to streamline grant reporting,
+          automate donor outreach, and uncover patterns in program data -
+          optimizing resource allocation so you can focus on your mission.
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/nonprofit.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Custom Solutions
+        tagline: ''
+        subtitle: 'Whatever your space, we build solutions for real-world problems.'
+        text: |
+          Wondering how AI can help *your* business?
+        image:
+          type: ImageBlock
+          url: /images/business.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: Let's Talk
+            altText: contact
+            url: /contact-us
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions: []
+    variant: two-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-8
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    title:
       text: Our Services
       color: text-dark
       styles:
