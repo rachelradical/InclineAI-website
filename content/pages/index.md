@@ -117,7 +117,7 @@ sections:
       - type: FeaturedItem
         title: Schools & Educators
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: 'AI that helps you support students, not just track them.'
         text: >+
           *   **Pain Point:** Student data is everywhere—but rarely actionable.
 
