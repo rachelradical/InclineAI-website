@@ -221,7 +221,8 @@ sections:
         title: Custom Solutions
         tagline: ''
         subtitle: 'Whatever your space, we build solutions for real-world problems.'
-        text: ''
+        text: |
+          Wondering how AI can help *your* business?
         image:
           type: ImageBlock
           url: /images/business.png
