@@ -30,7 +30,7 @@ sections:
           width: full
         - type: TextFormControl
           name: business name
-          label: Name
+          label: Business/Organization
           hideLabel: true
           placeholder: Your name
           isRequired: true
