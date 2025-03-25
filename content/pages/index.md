@@ -59,6 +59,35 @@ sections:
       like yours:
     items:
       - type: FeaturedItem
+        title: Small Businesses & Startups
+        tagline: ''
+        subtitle: Custom built for better results.
+        text: >+
+          **Pain Point:** You need things working better, faster, more
+          efficiently. Existing tools are never quite the right fit.
+
+          **Our Solution:** We build lightweight dashboards and AI tools that
+          cater specifically to your operational needs.
+
+        image:
+          type: ImageBlock
+          url: /images/small business icon.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
         title: Home Services
         tagline: ''
         subtitle: >-
@@ -76,35 +105,6 @@ sections:
           type: ImageBlock
           url: /images/home services.jpg
           altText: home services icon
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
-        title: Small Businesses & Startups
-        tagline: ''
-        subtitle: Custom built for better results.
-        text: >+
-          **Pain Point:** You need things working better, faster, more
-          efficiently. Existing tools are never quite the right fit.
-
-          **Our Solution:** We build lightweight dashboards and AI tools that
-          cater specifically to your operational needs.
-
-        image:
-          type: ImageBlock
-          url: /images/small business icon.png
-          altText: Placeholder text
           styles:
             self:
               borderRadius: x-large
