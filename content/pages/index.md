@@ -61,7 +61,9 @@ sections:
       - type: FeaturedItem
         title: Feature Item One
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: >-
+          One implementation can save you thousands in labor and lost
+          appointments—every single year.
         text: >+
           **Pain Point:** Managing scheduling, dispatch, and customer follow-ups
           is time-consuming—and mistakes cost money.
