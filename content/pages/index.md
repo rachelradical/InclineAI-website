@@ -54,7 +54,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Custom AI Training and Implementation
-        subtitle: Numbers Done
+        subtitle: ''
         text: >+
           Let's develop a plan for your business to harness AI for growth and
           success. Empower your team with clear, practical AI knowledge and
