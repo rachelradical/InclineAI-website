@@ -146,8 +146,7 @@ sections:
 
           *   Guidance
 
-        features:
-          - Feature one
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
