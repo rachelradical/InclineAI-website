@@ -129,7 +129,7 @@ sections:
       - type: PricingPlan
         title: AI Advisory
         price: ''
-        details: No credit card required
+        details: Monthly Retainer
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
