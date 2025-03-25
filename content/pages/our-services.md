@@ -10,7 +10,9 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: >-
+      Whether you want to book a one day workshop, retain ongoing AI consulting
+      services, or something in between, we have the solution.
     plans:
       - type: PricingPlan
         title: Developers
