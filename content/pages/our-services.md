@@ -219,7 +219,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
+        title: AI Strategy and Roadmap
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
