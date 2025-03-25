@@ -318,7 +318,9 @@ sections:
           borderRadius: large
 seo:
   metaTitle: Home - Incline AI Consulting
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Incline AI provides artificial intelligence consulting and data analytics to
+    Pittsburgh area businesses, nonprofits, and educators.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
