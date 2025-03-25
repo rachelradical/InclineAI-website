@@ -155,8 +155,17 @@ sections:
         title: Healthcare
         tagline: ''
         subtitle: Less burnout. Better outcomes.
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          *   **Pain Point:** Staff burnout, patient follow-up gaps, and
+          overwhelming case data.
+
+
+          *   **Our Solution:** We help practices use AI to triage workloads,
+          flag risk patterns, and automate common admin tasks—all without
+          compromising care.
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
