@@ -154,7 +154,7 @@ sections:
       - type: FeaturedItem
         title: Healthcare
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Less burnout. Better outcomes.
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
