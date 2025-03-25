@@ -19,7 +19,7 @@ sections:
     actions:
       - label: About Us
         altText: ''
-        url: /our-services
+        url: /about
         showIcon: false
         icon: arrowRight
         iconPosition: right
