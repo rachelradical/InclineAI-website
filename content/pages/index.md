@@ -148,10 +148,11 @@ sections:
       - type: FeaturedItem
         title: AI Workshops & Education
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          Bring us in to teach the basics or a specific application of AI. 
+
+
+
         image:
           type: ImageBlock
           url: /images/icon1.svg
