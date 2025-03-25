@@ -47,7 +47,7 @@
         "type": "ThemeStyleHeading"
     },
     "h6": {
-        "size": "xl",
+        "size": "lg",
         "weight": "normal",
         "decoration": "none",
         "case": "none",
