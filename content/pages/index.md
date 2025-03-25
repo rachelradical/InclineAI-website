@@ -204,7 +204,7 @@ sections:
       type: TitleBlock
       text: Why Incline AI?
       color: text-dark
-    subtitle: Be in good company
+    subtitle: ''
     text: >+
       *   **Clear & Practical:** No tech jargon, just simple and clear
       solutions.
