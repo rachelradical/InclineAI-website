@@ -258,7 +258,8 @@ sections:
 
 
       We're offering **free** AI readiness consultations for local businesses
-      and nonprofits!
+      and nonprofits! Send us an email or fill out the contact form. We're so
+      excited to work with you!
     actions:
       - type: Button
         label: Email Us
