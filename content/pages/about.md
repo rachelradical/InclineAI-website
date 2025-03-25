@@ -8,7 +8,7 @@ sections:
       text: About Incline AI
       color: text-dark
     subtitle: Connecting the Steel City to the Future
-    text: >+
+    text: >
       At **Incline AI**, we're proud Pittsburghers on a mission to bridge the
       gap between advanced AI technology and practical, everyday solutions.
       Founded by Rachel Radke—an experienced AI engineer, data analyst,
@@ -28,6 +28,8 @@ sections:
 
 
 
+
+      Get in touch today for a **FREE** AI Readiness Consultation.
     actions:
       - type: Button
         label: Get started
