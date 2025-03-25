@@ -86,7 +86,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Data Insights and Predictive Analytics
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >+
           Make your data work for you with customized, actionable insights. We
           utilize machine learning and other advanced analysis techniques to
