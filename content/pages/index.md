@@ -188,8 +188,17 @@ sections:
         title: Nonprofits
         tagline: ''
         subtitle: Do more good with less grind.
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          *   **Pain Point:** Limited staff, endless spreadsheets, and pressure
+          to prove impact.
+
+
+          *   **Our Solution:** We use AI to streamline grant reporting,
+          automate donor outreach, and uncover patterns in program data -
+          optimizing resource allocation so you can focus on your mission.
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
