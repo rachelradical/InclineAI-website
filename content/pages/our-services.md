@@ -15,7 +15,7 @@ sections:
       services, or something in between, we have the solution.
     plans:
       - type: PricingPlan
-        title: ''
+        title: AI Readiness Audit
         price: ''
         details: No credit card required
         description: >-
