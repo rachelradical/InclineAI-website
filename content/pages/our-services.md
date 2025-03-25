@@ -65,7 +65,6 @@ sections:
           *   implementation of one custom AI agent or app
 
         features:
-          - Feature three
           - Feature four
         image:
           type: ImageBlock
