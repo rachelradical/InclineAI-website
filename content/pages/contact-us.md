@@ -44,7 +44,7 @@ sections:
           width: full
         - type: SelectFormControl
           name: choose-type
-          label: What service intrests you most?
+          label: What service interests you most?
           hideLabel: false
           defaultValue: Please choose...
           options:
