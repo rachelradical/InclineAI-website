@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Clear, practical AI consulting for Pittsburgh businesses.'
+      text: 'Clear, practical AI consulting for Pittsburgh businesses'
       color: text-dark
       type: TitleBlock
     subtitle: Preparing the Steel City for the AI revolution
