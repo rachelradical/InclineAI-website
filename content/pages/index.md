@@ -233,7 +233,7 @@ sections:
         actions:
           - type: Button
             label: Let's Talk
-            altText: ''
+            altText: contact
             url: /contact-us
             showIcon: false
             icon: arrowRight
