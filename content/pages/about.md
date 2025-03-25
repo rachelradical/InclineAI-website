@@ -1,6 +1,7 @@
 ---
 type: PageLayout
 title: About Incline AI
+permalink: "/about/"
 sections:
   - type: GenericSection
     title:
