@@ -1,6 +1,7 @@
 ---
 type: PageLayout
 title: Contact Us
+permalink: "/contact-us/"
 sections:
   - type: GenericSection
     title:
