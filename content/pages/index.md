@@ -76,7 +76,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/home.jpg
-          altText: Background alt text
+          altText: home services icon
           styles:
             self:
               borderRadius: x-large
