@@ -207,4 +207,5 @@ seo:
   metaDescription: Description of AI Consulting Services from Incline AI
   socialImage: /images/main-hero.jpg
   metaTags: []
+  addTitleSuffix: true
 ---
