@@ -116,7 +116,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Schools & Educators
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >+
           *   **Pain Point:** Student data is everywhere—but rarely actionable.
