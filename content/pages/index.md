@@ -130,7 +130,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/school icon.png
           altText: Background alt text
           styles:
             self:
