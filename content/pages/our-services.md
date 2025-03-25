@@ -22,7 +22,6 @@ sections:
           Get an initial evaluation report of current and potential AI
           implementation, data quality, and infrastructure.
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
