@@ -187,8 +187,19 @@ sections:
         title: AI Readiness Audit
         tagline: ''
         subtitle: Contact Us for Pricing
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >+
+          Your organization will receive:
+
+
+          *   an initial evaluation report of current AI implementation, data
+          quality, and infrastructure.
+
+
+          *   a report of recommendations for optimizing AI implementation, data
+          quality, and infrastructure.
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
