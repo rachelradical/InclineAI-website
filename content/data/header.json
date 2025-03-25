@@ -31,7 +31,7 @@
         },
         {
             "label": "Contact Us",
-            "altText": "",
+            "altText": "contact",
             "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
