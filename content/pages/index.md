@@ -321,7 +321,10 @@ seo:
   metaDescription: >-
     Incline AI provides artificial intelligence consulting and data analytics to
     Pittsburgh area businesses, nonprofits, and educators.
-  socialImage: /images/main-hero.jpg
+  socialImage: >-
+    /images/DALL·E 2025-03-25 12.16.53 - A minimalist, cheerful illustration
+    directly inspired by the provided photograph of Pittsburgh, featuring the
+    Duquesne Incline ascending Mount Washing.webp
   type: Seo
   addTitleSuffix: false
 type: PageLayout
