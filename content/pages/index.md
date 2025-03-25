@@ -171,7 +171,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: /our-services
         showIcon: false
         icon: arrowRight
         iconPosition: right
