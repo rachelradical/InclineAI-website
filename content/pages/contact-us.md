@@ -52,7 +52,7 @@ sections:
             - AI Strategy & Roadmap
             - AI Training Workshops
             - Ongoing AI Consulting Services
-            - ''
+            - Custom AI Agent or App
             - ''
           isRequired: false
           width: full
