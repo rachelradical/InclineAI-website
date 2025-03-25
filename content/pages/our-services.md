@@ -54,9 +54,16 @@ sections:
         title: AI Strategy & Roadmap
         price: ''
         details: Contact Us for Pricing
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          Your organization will receive:
+
+
+          *   a detailed, actionable roadmap for adopting AI, tailored
+          specifically to your needs and goals
+
+
+          *   implementation of one custom AI agent or app
+
         features:
           - Feature one
           - Feature two
