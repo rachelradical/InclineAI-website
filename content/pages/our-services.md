@@ -254,7 +254,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Get Your AI Roadmap
             altText: ''
             url: /contact-us
             showIcon: false
