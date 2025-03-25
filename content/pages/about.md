@@ -33,7 +33,7 @@ sections:
     actions:
       - type: Button
         label: Learn More
-        url: /
+        url: /our-services
         icon: arrowRight
         iconPosition: right
         style: secondary
