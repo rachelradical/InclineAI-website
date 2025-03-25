@@ -48,7 +48,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: AI That Works For Your Industry
+      text: AI That Works for <u>Your</u> Industry
       color: text-dark
       styles:
         self:
