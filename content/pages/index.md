@@ -53,7 +53,10 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: >-
+      We don’t do cookie-cutter. Every AI solution we build is tailored to the
+      actual problems you face. Here's how AI can work for real industries—just
+      like yours:
     items:
       - type: FeaturedItem
         title: Account Executive
