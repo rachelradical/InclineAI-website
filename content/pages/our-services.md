@@ -89,9 +89,22 @@ sections:
         title: AI Training Workshop
         price: ''
         details: Contact Us for Pricing
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >+
+          Book an interactive workshop tailored specifically to your team,
+          focused on:
+
+
+          *   practical AI adoption,
+
+
+          *   using specific AI tools,
+
+
+          *   using data to drive insights, or
+
+
+          *   another topic chosen by you!
+
         features:
           - Feature one
           - Feature two
