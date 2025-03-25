@@ -127,7 +127,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: AI Advisory
+        title: AI Advisory Services
         price: ''
         details: Monthly Retainer
         description: >-
