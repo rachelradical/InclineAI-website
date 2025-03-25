@@ -130,9 +130,22 @@ sections:
         title: AI Advisory Services
         price: ''
         details: Monthly Retainer
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          Retain our ongoing services for a flat, monthly rate. Benefits
+          include:
+
+
+          *   Regular meetings
+
+
+          *   Advice on AI implementation
+
+
+          *   Data analytics and insights
+
+
+          *   Guidance
+
         features:
           - Feature one
           - Feature two
