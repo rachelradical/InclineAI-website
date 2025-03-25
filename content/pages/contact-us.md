@@ -51,7 +51,7 @@ sections:
             - AI Readiness Audit
             - AI Strategy & Roadmap
             - AI Training Workshops
-            - ''
+            - Ongoing AI Consulting Services
           isRequired: false
           width: full
         - type: TextareaFormControl
