@@ -87,16 +87,10 @@ sections:
               borderRadius: x-large
       - title: Data Insights and Predictive Analytics
         subtitle: ''
-        text: >+
-          Make your data work for you with customized, actionable insights. We
-          utilize machine learning and other advanced analysis techniques to
-          provide you with accurate and straightforward plans for growth,
-          management, implementation, and more.
-
-
-
-
-
+        text: >
+          Make your data work for you with customized, actionable insights. Get
+          straightforward plans for growth, management, implementation, and
+          more.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
