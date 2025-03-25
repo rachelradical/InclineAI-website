@@ -206,8 +206,8 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      *   **Clear & Practical:** No tech jargon, just simple and clear
+      solutions.
     actions:
       - type: Button
         label: Get started
