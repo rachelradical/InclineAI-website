@@ -11,7 +11,7 @@
             {
                 "label": "Our Services",
                 "altText": "Our Services",
-                "url": "/",
+                "url": "/our-services",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
