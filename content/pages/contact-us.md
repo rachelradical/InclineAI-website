@@ -53,7 +53,7 @@ sections:
             - AI Training Workshops
             - Ongoing AI Consulting Services
             - Custom AI Agent or App
-            - ''
+            - Other
           isRequired: false
           width: full
         - type: TextareaFormControl
