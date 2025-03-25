@@ -18,9 +18,17 @@ sections:
         title: AI Readiness Audit
         price: ''
         details: Contact Us for Pricing
-        description: >
-          Get an initial evaluation report of current and potential AI
-          implementation, data quality, and infrastructure.
+        description: >+
+          Your organization will receive:
+
+
+          *   an initial evaluation report of current AI implementation, data
+          quality, and infrastructure.
+
+
+          *   a report of recommendations for optimizing AI implementation, data
+          quality, and infrastructure.
+
         features: []
         image:
           type: ImageBlock
