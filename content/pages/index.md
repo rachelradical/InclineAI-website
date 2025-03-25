@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: 'Clear, practical AI consulting for Pittsburgh businesses.'
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
