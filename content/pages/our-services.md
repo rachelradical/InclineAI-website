@@ -213,7 +213,7 @@ sections:
           - type: Button
             label: Schedule Your Audit
             altText: ''
-            url: /Sc
+            url: /contact-us
             showIcon: false
             icon: arrowRight
             iconPosition: right
