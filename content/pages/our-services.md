@@ -188,7 +188,7 @@ sections:
 
     actions:
       - type: Link
-        label: See Tutorials
+        label: Contact Us Today!
         url: /
         showIcon: true
         icon: arrowRight
