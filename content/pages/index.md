@@ -59,7 +59,7 @@ sections:
       like yours:
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Home Services
         tagline: ''
         subtitle: >-
           One implementation can save you thousands in labor and lost
