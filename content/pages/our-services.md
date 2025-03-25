@@ -167,18 +167,24 @@ sections:
       text: Looking for Something Else?
       color: text-dark
     subtitle: The options are endless!
-    text: |+
+    text: >+
       Retain our ongoing services for a flat, monthly rate. Benefits include:
+
 
       *   Regular meetings
 
+
       *   Advice on AI implementation
 
+
       *   Data analytics and insights
+
 
       *   Guidance
 
 
+      Or get in touch about your organization's specific needs. Whatever your
+      goals, we are ready to help!
 
     actions:
       - type: Button
