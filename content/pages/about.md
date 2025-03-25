@@ -32,7 +32,7 @@ sections:
       Get in touch today for a **FREE** AI Readiness Consultation.
     actions:
       - type: Button
-        label: Get started
+        label: Learn More
         url: /
         icon: arrowRight
         iconPosition: right
