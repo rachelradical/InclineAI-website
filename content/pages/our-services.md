@@ -221,7 +221,7 @@ sections:
       - type: FeaturedItem
         title: AI Strategy and Roadmap
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Contact Us for Pricing
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
