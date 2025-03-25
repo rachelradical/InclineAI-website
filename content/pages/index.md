@@ -253,9 +253,19 @@ sections:
       text: Social Media Management
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      Ready to explore how AI can benefit you?
+
+
+
+      We're offering **free** AI readiness consultations for local businesses
+      and nonprofits!
+
+
+
+
+      or fill out the contact form below. 
+
     actions:
       - type: Button
         label: Get started
