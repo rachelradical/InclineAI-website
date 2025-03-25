@@ -22,7 +22,7 @@
         },
         {
             "label": "Our Services",
-            "altText": "Blog",
+            "altText": "our services",
             "url": "/our-services",
             "icon": "arrowRight",
             "iconPosition": "right",
