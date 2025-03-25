@@ -65,7 +65,6 @@ sections:
           *   implementation of one custom AI agent or app
 
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
