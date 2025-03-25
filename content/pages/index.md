@@ -118,10 +118,16 @@ sections:
         type: FeaturedItem
       - title: Automation & Efficiency
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          Save time and money by automating repetitive tasks intelligently.
+
+
+
+
+
+
+
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
