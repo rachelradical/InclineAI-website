@@ -135,7 +135,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/small business icon.png
           altText: Placeholder text
           styles:
             self:
