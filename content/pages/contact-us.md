@@ -51,6 +51,7 @@ sections:
             - AI Readiness Audit
             - AI Strategy & Roadmap
             - AI Training Workshops
+            - ''
           isRequired: false
           width: full
         - type: TextareaFormControl
