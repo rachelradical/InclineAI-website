@@ -153,7 +153,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Healthcare
-        tagline: This is the tagline
+        tagline: ''
         subtitle: Less burnout. Better outcomes.
         text: |
           Follow the tutorial to build your first Netlify Create site.
