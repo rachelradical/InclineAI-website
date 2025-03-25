@@ -92,7 +92,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Small Businesses and Startups
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
