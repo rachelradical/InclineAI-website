@@ -48,7 +48,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: AI That Works for YOU
       color: text-primary
       styles:
         self:
