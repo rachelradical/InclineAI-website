@@ -268,7 +268,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Email Us
         url: /
         icon: arrowRight
         iconPosition: right
