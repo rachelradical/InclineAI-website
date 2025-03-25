@@ -211,7 +211,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Schedule Your Audit
             altText: ''
             url: /Schedule Your Audit
             showIcon: false
