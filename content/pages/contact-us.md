@@ -32,7 +32,7 @@ sections:
           name: business name
           label: Business/Organization
           hideLabel: true
-          placeholder: Your name
+          placeholder: Your business or organization
           isRequired: true
           width: full
         - type: EmailFormControl
