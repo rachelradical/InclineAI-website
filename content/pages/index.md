@@ -230,7 +230,10 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: >-
+        /images/DALL·E 2025-03-25 12.52.58 - A minimalistic and visually
+        appealing illustration representing artificial intelligence. Utilize
+        abstract shapes, clean geometric patterns, circuit-li.webp
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
