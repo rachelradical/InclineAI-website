@@ -301,7 +301,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Schedule Your Workshop
             altText: ''
             url: /contact-us
             showIcon: false
