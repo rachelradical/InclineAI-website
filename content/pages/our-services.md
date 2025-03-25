@@ -166,7 +166,7 @@ sections:
       type: TitleBlock
       text: Looking for Something Else?
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: The options are endless!
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
