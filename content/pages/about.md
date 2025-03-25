@@ -39,7 +39,7 @@ sections:
         style: secondary
       - type: Link
         label: Contact Us
-        url: /
+        url: /contact-us
         showIcon: true
         icon: arrowRight
         iconPosition: right
