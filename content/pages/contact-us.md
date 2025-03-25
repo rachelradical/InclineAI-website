@@ -54,7 +54,7 @@ sections:
             - Ongoing AI Consulting Services
             - Custom AI Agent or App
             - Other
-          isRequired: false
+          isRequired: true
           width: full
         - type: TextareaFormControl
           name: message
