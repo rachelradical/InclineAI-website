@@ -154,7 +154,7 @@ sections:
         actions:
           - type: Button
             label: Book Our First Meeting
-            url: /
+            url: /contact-us
             icon: arrowRight
             iconPosition: right
             style: secondary
