@@ -253,19 +253,12 @@ sections:
       text: Let's get to work!
       color: text-dark
     subtitle: ''
-    text: >+
+    text: >
       Ready to explore how AI can benefit you?
-
 
 
       We're offering **free** AI readiness consultations for local businesses
       and nonprofits!
-
-
-
-
-      or fill out the contact form below. 
-
     actions:
       - type: Button
         label: Email Us
