@@ -221,8 +221,7 @@ sections:
         title: Custom Solutions
         tagline: This is the tagline
         subtitle: 'Whatever your space, we build solutions for real-world problems.'
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/business.png
