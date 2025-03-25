@@ -323,5 +323,6 @@ seo:
     Pittsburgh area businesses, nonprofits, and educators.
   socialImage: /images/main-hero.jpg
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
