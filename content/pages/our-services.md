@@ -255,7 +255,7 @@ sections:
       - type: FeaturedItem
         title: AI Training Workshop
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Contact Us for Pricing
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
