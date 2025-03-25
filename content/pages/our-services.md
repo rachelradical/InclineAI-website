@@ -220,7 +220,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: AI Strategy and Roadmap
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify site.
