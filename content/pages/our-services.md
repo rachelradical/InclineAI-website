@@ -113,7 +113,7 @@ sections:
         actions:
           - type: Button
             label: Contact us
-            url: /
+            url: /contact-us
             icon: arrowRight
             iconPosition: right
             style: secondary
