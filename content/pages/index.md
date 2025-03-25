@@ -17,7 +17,7 @@ sections:
       for it!
 
     actions:
-      - label: Our Services
+      - label: About Us
         altText: ''
         url: /our-services
         showIcon: false
