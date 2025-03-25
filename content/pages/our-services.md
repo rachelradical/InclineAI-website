@@ -106,7 +106,6 @@ sections:
           *   another topic chosen by you!
 
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
