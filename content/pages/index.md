@@ -75,7 +75,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/home.jpg
           altText: Background alt text
           styles:
             self:
