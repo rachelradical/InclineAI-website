@@ -8,10 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Preparing the Steel City for the AI revolution
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+      Incline AI helps Pittsburgh-area businesses, nonprofits, and educators
+      harness the full power of AI without the confusion or complexity. We
+      simplify artificial intelligence and data analytics into clear, actionable
+      insights and practical applications. AI is here to stay. Let's get ready
+      for it!
+
     actions:
       - label: Get started
         altText: ''
