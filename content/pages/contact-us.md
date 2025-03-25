@@ -8,11 +8,15 @@ sections:
       text: Prepare for the future with us.
       color: text-dark
     subtitle: We can't wait to meet you!
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Whether you want to learn more about us, book your FREE AI readiness
+      consultation, or retain our services, reaching out is the first step!
+      Please send us an email or fill out the contact form below to get things
+      started.
+
+
+      ### [Email](mailto:rachelcradke@gmail.com)
+
     actions: []
     media:
       type: FormBlock
