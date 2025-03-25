@@ -49,7 +49,7 @@ sections:
           defaultValue: Please choose...
           options:
             - AI Readiness Audit
-            - ''
+            - AI Strategy & Roadmap
             - ''
           isRequired: false
           width: full
