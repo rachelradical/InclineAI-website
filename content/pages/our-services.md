@@ -167,7 +167,7 @@ sections:
       text: Looking for Something Else?
       color: text-dark
     subtitle: The options are endless!
-    text: >+
+    text: >
       Retain our ongoing services for a flat, monthly rate. Benefits include:
 
 
@@ -184,8 +184,10 @@ sections:
 
 
       Or get in touch about your organization's specific needs. Whatever your
-      goals, we are ready to help!
+      goals, we are ready to help.
 
+
+      **FREE** AI Readiness Evaluations are still available. Don't miss out!
     actions:
       - type: Link
         label: Contact Us Today!
