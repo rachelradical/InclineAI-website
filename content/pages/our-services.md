@@ -21,8 +21,7 @@ sections:
         description: >
           Get an initial evaluation report of current and potential AI
           implementation, data quality, and infrastructure.
-        features:
-          - Feature four
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
