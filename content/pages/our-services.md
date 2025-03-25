@@ -105,8 +105,7 @@ sections:
 
           *   another topic chosen by you!
 
-        features:
-          - Feature five
+        features: []
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
