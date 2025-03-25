@@ -72,7 +72,7 @@ sections:
         actions:
           - type: Button
             label: Get Your Roadmap
-            url: /
+            url: /contact-us
             icon: arrowRight
             iconPosition: right
             style: secondary
