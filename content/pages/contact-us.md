@@ -33,7 +33,7 @@ sections:
           label: Business/Organization
           hideLabel: true
           placeholder: Your business or organization
-          isRequired: true
+          isRequired: false
           width: full
         - type: EmailFormControl
           name: email
