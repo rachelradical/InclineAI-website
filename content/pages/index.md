@@ -2,6 +2,16 @@
 title: Home
 slug: /
 sections:
+  - type: CustomCodeBlock
+    elementId: hidden-netlify-form
+    code: |
+        <div hidden>
+          <form name="contact-form" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+            <input type="text" name="name" />
+            <input type="email" name="email" />
+            <textarea name="message"></textarea>
+          </form>
+        </div>
   - type: GenericSection
     title:
       text: 'Clear, practical AI consulting for Pittsburgh businesses'
@@ -534,16 +544,6 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-  - type: CustomCodeBlock
-    elementId: hidden-netlify-form
-    code: |
-        <div hidden>
-          <form name="contact-form" method="POST" data-netlify="true" netlify-honeypot="bot-field">
-            <input type="text" name="name" />
-            <input type="email" name="email" />
-            <textarea name="message"></textarea>
-          </form>
-        </div>
 seo:
   metaTitle: Home - Incline AI Consulting
   metaDescription: >-
