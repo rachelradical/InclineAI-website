@@ -3,6 +3,16 @@ type: PageLayout
 title: Contact Us
 permalink: "/contact-us/"
 sections:
+  - type: CustomCodeBlock
+    elementId: hidden-netlify-form
+    code: |
+        <div hidden>
+          <form name="contact-form" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+            <input type="text" name="name" />
+            <input type="email" name="email" />
+            <textarea name="message"></textarea>
+          </form>
+        </div>
   - type: GenericSection
     title:
       type: TitleBlock
@@ -95,16 +105,5 @@ seo:
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
-
-type: CustomCodeBlock
-elementId: hidden-netlify-form
-code: |
-    <div hidden>
-      <form name="contact-form" method="POST" data-netlify="true" netlify-honeypot="bot-field">
-        <input type="text" name="name" />
-        <input type="email" name="email" />
-        <textarea name="message"></textarea>
-      </form>
-    </div>
 
 ---
