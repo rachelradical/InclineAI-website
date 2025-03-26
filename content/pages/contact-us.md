@@ -96,11 +96,4 @@ seo:
   socialImage: /images/main-hero.jpg
   metaTags: []
 
-<div hidden>
-  <form name="contact-form" method="POST" data-netlify="true" netlify-honeypot="bot-field">
-    <input type="text" name="name" />
-    <input type="email" name="email" />
-    <textarea name="message"></textarea>
-  </form>
-</div>
 ---
