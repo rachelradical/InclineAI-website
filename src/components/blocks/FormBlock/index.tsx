@@ -21,10 +21,8 @@ export default function FormBlock(props) {
 
     return (
         <form
-            name={elementId}
+            action="https://formspree.io/f/xpwplgqj"
             method="POST"
-            data-netlify="true"
-            netlify-honeypot="bot-field"
             className={classNames(
                 'sb-component',
                 'sb-component-block',
@@ -44,15 +42,6 @@ export default function FormBlock(props) {
             id={elementId}
             data-sb-field-path={fieldPath}
         >
-            {/* Netlify honeypot field */}
-            <input type="hidden" name="form-name" value={elementId} />
-            <input type="hidden" name="bot-field" />
-            <p hidden>
-                <label>
-                    Don’t fill this out if you're human: <input name="bot-field" />
-                </label>
-            </p>
-
             <div
                 className={classNames(
                     'w-full',
