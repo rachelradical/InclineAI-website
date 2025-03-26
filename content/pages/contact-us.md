@@ -3,16 +3,6 @@ type: PageLayout
 title: Contact Us
 permalink: "/contact-us/"
 sections:
-  - type: CustomCodeBlock
-    elementId: hidden-netlify-form
-    code: |
-        <div hidden>
-          <form name="contact-form" method="POST" data-netlify="true" netlify-honeypot="bot-field">
-            <input type="text" name="name" />
-            <input type="email" name="email" />
-            <textarea name="message"></textarea>
-          </form>
-        </div>
   - type: GenericSection
     title:
       type: TitleBlock
@@ -96,6 +86,16 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
+  - type: CustomCodeBlock
+    elementId: hidden-netlify-form
+    code: |
+        <div hidden>
+          <form name="contact-form" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+            <input type="text" name="name" />
+            <input type="email" name="email" />
+            <textarea name="message"></textarea>
+          </form>
+        </div>
 slug: contact-us
 isDraft: false
 seo:
