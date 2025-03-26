@@ -484,7 +484,7 @@ sections:
     actions:
       - type: Button
         label: Email Us
-        url: 'mailto: rachelcradke@gmail.com'
+        url: 'mailto:hello@inclineai.tech'
         icon: arrowRight
         iconPosition: right
         style: secondary
