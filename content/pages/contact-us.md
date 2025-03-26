@@ -16,7 +16,7 @@ sections:
       started.
 
 
-      ### [Email](mailto:rachelcradke@gmail.com)
+      ### [Email](mailto:hello@inclineai.tech)
 
     actions: []
     media:
