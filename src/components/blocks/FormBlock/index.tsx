@@ -12,8 +12,6 @@ export default function FormBlock(props) {
     if (fields.length === 0) {
         return null;
     }
-
-    function handleSubmit() {}
     return (
         <form   
             method="POST"
